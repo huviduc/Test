@@ -1,6 +1,6 @@
 AEO 
 
-This is definately legitimate
+This is definetely legitimate
 
 username=American Eagle Outfitters
 
