@@ -1,0 +1,7 @@
+AEO 
+
+This is definately legitimate
+
+username=American Eagle Outfitters
+
+ldap.Password=123456
